@@ -1,11 +1,12 @@
 <h1>Multiple-Disease-Prediction-using-Large-Language-Models</h1>
-📌 Project Overview
+
+<h2>Project Overview</h2>
 
 This project focuses on predicting multiple diseases using Large Language Models (LLMs) combined with machine learning and data-driven approaches. The system analyzes user-provided symptoms and medical-related inputs to assist in identifying the possible presence of diseases at an early stage.
 
 The aim is to demonstrate how modern AI models can support healthcare decision-making (for educational and research purposes only).
 
-🎯 Objectives
+<h2>Objectives</h2>
 
 Predict multiple diseases from input symptoms
 
@@ -15,8 +16,9 @@ Provide fast and user-friendly disease prediction
 
 Assist early diagnosis and awareness
 
-🧠 Technologies Used
-🔹 Frontend
+<h2>Technologies Used</h2>
+
+<h3>Frontend</h3>
 
 HTML
 
@@ -28,7 +30,7 @@ React (Vite + TypeScript)
 
 Tailwind CSS
 
-🔹 Backend / Logic
+<h3>Backend / Logic</h3>
 
 Python
 
@@ -36,7 +38,7 @@ Machine Learning Models
 
 Large Language Models (LLMs)
 
-🔹 Tools & Libraries
+<h3>Tools & Libraries</h3>
 
 NumPy
 
